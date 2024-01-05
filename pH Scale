@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #p1{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(229, 100%, 50%);
+    }
+    #p2{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(221, 100%, 55%);
+    }#p3{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(221, 98%, 60%);
+    }#p4{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(221, 98%, 65%);
+    }#p5{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(221, 98%, 70%);
+    }#p6{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(221, 98%, 75%);
+    }#p7{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(221, 98%, 80%);
+    }#p8{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(120, 78%, 34%);
+    }#p9{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(324, 62%, 75%);
+    }#p10{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(324, 62%, 70%);
+    }#p11{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(324, 62%, 65%);
+    }#p12{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(324, 62%, 60%);
+    }#p13{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(324, 62%, 55%);
+    }#p14{
+        color: white;
+        margin: 0;
+        padding: 0;
+        background-color:hsl(324, 62%, 50%);
+    }
+</style>
+<body>
+    <h1>pH Scale</h1>
+    <p id="p1">14.0 VERY ALKALINE</p>
+    <p id="p2">13.0</p>
+    <p id="p3">12.0</p>
+    <p id="p4">11.0</p>
+    <p id="p5">10.0</p>
+    <p id="p6">9.0</p>
+    <p id="p7">8.0</p>
+    <p id="p8">7.0 NEUTRAL</p>
+    <p id="p9">6.0</p>
+    <p id="p10">5.0</p>
+    <p id="p11">4.0</p>
+    <p id="p12">3.0</p>
+    <p id="p13">2.0</p>
+    <p id="p14">1.0 VERY ACIDIC</p>
+</body>
+</html>
